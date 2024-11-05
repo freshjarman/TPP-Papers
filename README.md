@@ -1,7 +1,9 @@
 # Recommended Reading on Temporal Point Process (TPP)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Mainly Contributed by [Chenghao Yang](https://yangalan123.github.io/), [Hongyuan Mei](https://www.hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
+Mainly Contributed by [Chenghao Yang](https://yangalan123.github.io/).
+
+Thanks to [Hongyuan Mei](https://www.hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/) for providing support and helpful comments.
 
 Thanks for all great [contributors](#acknowledgements) on GitHub!
 
@@ -50,7 +52,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 
 ### 2.1 Temporal Point Process Modeling
-1. **A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs.** *Sikun Yang, Hongyuan Zha*. AAAI 2024. [[paper](https://arxiv.org/abs/2312.16083)]
+1. **Neural Jump-Diffusion Temporal Point Processes.** *Shuai Zhang, Chuan Zhou, Yang Aron Liu, Peng Zhang, Xixun Lin, Zhi-Ming Ma*. ICML 2024. [[paper](https://openreview.net/pdf?id=d1P6GtRzuV)] [[code](https://github.com/Zh-Shuai/NJDTPP)]
 1. **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning.** *Xiaoming Shi, Siqiao Xue, Kangrui Wang, Fan Zhou, James Y. Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2305.16646.pdf)] [[code](https://github.com/iLampard/lamp)]
 1. **Prompt-augmented Temporal Point Process for Streaming Event Sequence.** *Siqiao Xue, Yan Wang, Zhixuan Chu, Xiaoming Shi, Caigao Jiang, Hongyan Hao, Gangwei Jiang, Xiaoyun Feng, James Y. Zhang, Jun Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.04993.pdf)] [[code](https://github.com/yanyanSann/PromptTPP)]
 1. **Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes**. *Yixuan Zhang, Quyu Kong, Feng Zhou*. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2310.05485.pdf)]
@@ -84,6 +86,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### 2.2 Structured Temporal Point Process Modeling
 1. **Neuro-Symbolic Temporal Point Processes**. *Yang Yang, Chao Yang, Boyang Li, Yinghao Fu, Shuang Li*. ICML 2024. [[pdf](https://arxiv.org/pdf/2406.03914)]
+1. **A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs.** *Sikun Yang, Hongyuan Zha*. AAAI 2024. [[paper](https://arxiv.org/abs/2312.16083)]
 1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/pdf/2201.00044.pdf)] [[code](https://github.com/yangalan123/anhp-andtt)] (cross-listed as this paper covers both structured and unstructured TPP modeling. )
 1. **Learning Neural Point Processes with Latent Graphs**. *Qiang Zhang, Aldo Lipani, and Emine Yilmaz*. WWW 2021. [[pdf](https://discovery.ucl.ac.uk/id/eprint/10122006/1/2021_WWW_Learning_Neural_Point_Processes_with_Latent_Graphs.pdf)]
 1. **User-Dependent Neural Sequence Models for Continuous-Time Event Data**. *Alex Boyd, Robert Bamler, Stephan Mandt, Padhraic Smyth*. NeurIPS 2020. [[pdf](https://arxiv.org/pdf/2011.03231.pdf)] [[code](https://github.com/ajboyd2/vae_mpp)]
@@ -168,6 +171,7 @@ Liu*. IJCAI 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0303.pdf)]
 ### 4.8 Network Structure Discovery
 1. **Discovering Latent Network Structure in Point Process Data**. *Scott Linderman and Ryan Adams*. ICML 2014. [[pdf](http://proceedings.mlr.press/v32/linderman14.pdf)] [[code](https://github.com/slinderman/pyhawkes)]
 ### 4.9 Science
+1. **Weather Knows What Will Occur: Urban Public Nuisance Events Prediction and Control with Meteorological Assistance**. *Yi Xie, Tianyu Qiu, Yun Xiong, Xiuqi Huang, Xiaofeng Gao, Chao Chen, Qiang Wang, Haihong Li*. KDD 2024. [[acm page](https://dl.acm.org/doi/abs/10.1145/3637528.3671639)] [[video](https://www.youtube.com/watch?v=ozxcqD5cS3k)]
 1. **Point process models for sequence detection in high-dimensional neural spike trains**. *Alex Williams, Anthony Degleris, Yixin Wang, Scott Linderman*. NeurIPS 2021. [[pdf](https://arxiv.org/pdf/2010.04875.pdf)] [[code](https://github.com/lindermanlab/PPSeq.jl)]
 1. **Point Process Latent Variable Models of Larval Zebrafish Behavior**. *Anuj Sharma, Robert Johnson, Florian Engert, Scott Linderman*. NeurIPS 2018. [[pdf](https://papers.nips.cc/paper/2018/file/e02af5824e1eb6ad58d6bc03ac9e827f-Paper.pdf)]
 1. **Mixture of Mutually Exciting Processes for Viral Diffusion**. *Shuang-Hong Yang, Hongyuan Zha*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/yang13a.pdf)]
