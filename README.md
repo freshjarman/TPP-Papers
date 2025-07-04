@@ -85,6 +85,7 @@ Thanks for all great [contributors](#acknowledgements) on GitHub!
 1. **Learning Triggering Kernels for Multi-dimensional Hawkes Processes**. *Ke Zhou, Hongyuan Zha, and Le Song*. ICML 2013. [[pdf](http://proceedings.mlr.press/v28/zhou13.pdf)]
 
 ### 2.2 Structured Temporal Point Process Modeling
+1. **Fine-grained Spatio-temporal Event Prediction with Self-adaptive Anchor Graph**. *Wang-Tao Zhou, Zhao Kang, Sicong Liu, Lizong Zhang, and Ling Tian*. SDM 2025. [[pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.60)]
 1. **Neuro-Symbolic Temporal Point Processes**. *Yang Yang, Chao Yang, Boyang Li, Yinghao Fu, Shuang Li*. ICML 2024. [[pdf](https://arxiv.org/pdf/2406.03914)]
 1. **A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs.** *Sikun Yang, Hongyuan Zha*. AAAI 2024. [[paper](https://arxiv.org/abs/2312.16083)]
 1. **Transformer Embeddings of Irregularly Spaced Events and Their Participants**. *Chenghao Yang, Hongyuan Mei, Jason Eisner*. ICLR 2022. [[pdf](https://arxiv.org/pdf/2201.00044.pdf)] [[code](https://github.com/yangalan123/anhp-andtt)] (cross-listed as this paper covers both structured and unstructured TPP modeling. )
